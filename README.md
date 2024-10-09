@@ -16,20 +16,20 @@ Este projeto consiste em um portfólio pessoal de Ricardo Dias, demonstrando sua
 
 Aqui estão alguns dos projetos destacados de Ricardo Dias:
 
-1. **Projeto 1** - [GitHub Pages](https://github.com/devemdobro/projetogta)
-   - Descrição: Projeto de Landing Page GTA feito com HTML, CSS e JavaScript.
+1. **mAInd** - [GitHub Pages](https://lucasdavid80.github.io/mAInd/)
+   - Descrição: Projeto de uma IA onde ajuda a fazer um pré diagnóstico feito usando HTML, CSS, JavaScript e Python.
    
-2. **Projeto 2** - [GitHub Pages](https://github.com/devemdobro/projeto-listagem-pokemon)
-   - Descrição: Projeto de listagem de pokemons feito com HTML, CSS e JavaScript.
+2. **Pokedex Simplificado** - [GitHub Pages](https://lucasdavid80.github.io/pokedex/)
+   - Descrição: Projeto de uma pokedex simples feito usando HTML, CSS e JavaScript.
    
-3. **Projeto 3** - [GitHub Pages](https://github.com/devemdobro/projeto-one-piece-final)
-   - Descrição: Landing page de One Piece feito com HTML, CSS e JavaScript.
+3. **House of the Dragon** - [GitHub Pages](https://lucasdavid80.github.io/House-of-the-Dragon/)
+   - Descrição: Projeto que mostra alguns dos principais dragões da série "A casa do Dragão" da HBO feito usando HTML, CSS e JavaScript.
    
-4. **Projeto 4** - [GitHub Pages](https://github.com/devemdobro/x-men-szpc)
-   - Descrição: Seletor de personagens x-men feito com HTML, CSS e JavaScript.
+4. **Marvel Combat** - [GitHub Pages](https://lucasdavid80.github.io/projeto-marvel/)
+   - Descrição: Projeto de simulação de seleção de persongens para um jogo da Marvel feito usando HTML, CSS e JavaScript.
    
-5. **Projeto 5** - [Placeholder](#)
-   - Descrição: Projeto ainda não disponível.
+<!-- 5. **Projeto 5** - [Placeholder](#)
+   - Descrição: Projeto ainda não disponível. -->
 
 > Nota: Os projetos estão hospedados no GitHub Pages ou têm links diretos para os repositórios no GitHub.
 
