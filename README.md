@@ -1,4 +1,4 @@
-# Ricardo Hofstetter Dias - Desenvolvedor FrontEnd
+# Lucas David Oliveira Silva Adão - Desenvolvedor FrontEnd
 
 Este é o código-fonte do portfólio de Ricardo Hofstetter Dias, um desenvolvedor FrontEnd em formação.
 
@@ -36,10 +36,10 @@ Aqui estão alguns dos projetos destacados de Ricardo Dias:
 ## Redes Sociais
 
 Conecte-se com Ricardo Dias nas redes sociais:
-- [LinkedIn](https://www.linkedin.com/in/nomedousuario/)
+- [LinkedIn](https://www.linkedin.com/in/lucas-david-b3376a206/)
 - [WhatsApp](https://wa.me/55988890551)
-- [GitHub](https://github.com/nomedousuario)
-- [Instagram](https://www.instagram.com/nomedousuario)
+- [GitHub](https://github.com/LucasDavid80)
+<!-- - [Instagram](https://www.instagram.com/nomedousuario) -->
 
 ---
 
