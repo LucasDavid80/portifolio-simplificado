@@ -1,6 +1,8 @@
 # Lucas David Oliveira Silva Adão - Desenvolvedor FrontEnd
 
-Este é o código-fonte do portfólio de Ricardo Hofstetter Dias, um desenvolvedor FrontEnd em formação.
+Este é o código-fonte do portfólio de Lucas David Oliveira Silva Adão , um desenvolvedor FrontEnd em formação.
+
+site: https://lucasdavid80.github.io/portifolio-simplificado/
 
 ## Conteúdo
 
